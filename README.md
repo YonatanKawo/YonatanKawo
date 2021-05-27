@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @YonatanKawo
+- 👋 Hi, I’m Yonatan.
 - 👀 I’m interested in learning JavaScript
 - 🌱 I’m currently learning Software Engineering with Flatiron
 - 💞️ I’m looking to collaborate on JS and other programming languages
